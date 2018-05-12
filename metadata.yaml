@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7178
     wikipedia: http://en.wikipedia.org/wiki/Martin_Delany
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17154#The-Condition-Elevation-Emigration-and-Destiny-of-the-Colored-People-of-the-United-States
 gutenberg_issued: '2005-11-26'
 gutenberg_type: Text
 identifiers:
